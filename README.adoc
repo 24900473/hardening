@@ -639,7 +639,6 @@ supported Ubuntu versions.
 
 The script will generate a file named `TESTRESULTS.adoc` and CIS report in
 HTML-format.
-
 === Testing a host
 Running `bash ./runHostTests.sh`, located in the link:tests/[tests directory],
 will generate a `TESTRESULTS-<HOSTNAME>.adoc` report.
